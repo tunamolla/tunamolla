@@ -1,8 +1,27 @@
-<h1 align="center">Hi 👋, I'm Tuna.</h1>
-<p align="center">A passionate fullstack developer (student) from Turkey.</p>
-<h2 align="center">🚀 Languages and Tools I Use</h2>
-<p align="center"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tunamolla&show_icons=true&locale=en&layout=compact" alt="tunamolla" /></p>
+<h1 align="left">Hi, I am Tuna!</h1>
 
+###
+
+<p align="left">I am a mobile app developer from Turkey.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tunamolla&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=calm&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
